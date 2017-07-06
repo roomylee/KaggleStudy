@@ -1,2 +1,3 @@
-/titanic/.ipynb_checkpoints/*
+.ipynb_checkpoints
 .DS_Store
+/Instacart/data/order*
