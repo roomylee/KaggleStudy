@@ -30,13 +30,13 @@ Kaggle Dataset이 대용량이기 때문에 공유된 [네이버 클라우드](h
 	- Lab open! : Each members experiments some one or more topics to improve our model.
 	
 	- *Joohong's Assignment*
-		- make frame of train/test data as .csv files
-		- make baseline code
+		<br>☑︎ make frame of train/test data as .csv files
+		<br>☑︎ make baseline code
 	- *Sangwoo's Assignment*
-		- experiments about models
-		- Categorization of 'order_hour_of_day' columns
+		<br>☐ experiments about models
+		<br>☐ Categorization of 'order_hour_of_day' columns
 	- *JeongMoo's Assignment*
-		- experiments basket size & threshold of probability
+		<br>☐ experiments basket size & threshold of probability
 
 - **July 13, 2017 : Instacart Kernel Review**
 	- Kernels review
