@@ -11,9 +11,9 @@
 
 ## Competition Topic ##
 
-<del>1. Titanic: Machine Learning from Disaster (to July 1, 2017)</del> - Clear!😎 <br>
-2. Instacart Market Basket Analysis (to August 14, 2017)<br>
-3. Google Machine Learning Challenge
+<del>1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (to July 1, 2017)</del> - Clear!😎 <br>
+2. [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) (to August 14, 2017)<br>
+3. [Google Machine Learning Challenge](https://mlchallenge2017.com/)
 
 
 ## Kaggle Data → Naver Cloud ##
