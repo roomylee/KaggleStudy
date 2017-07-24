@@ -11,12 +11,12 @@
 
 ## Competition Topic ##
 
-<del>1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (to July 1, 2017)</del> - Clear!😎 <br>
-2. [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) (to August 14, 2017)<br>
-3. [Google Machine Learning Challenge](https://mlchallenge2017.com/)
+<del>1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (Deadline: July 1, 2017)</del> - Clear!😎 <br>
+2. [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) (Deadline: August 14, 2017)<br>
+3. [Google Machine Learning Challenge](https://mlchallenge2017.com/) (Deadline: August 21, 2017)<br>
 
 
-## Kaggle Data → Naver Cloud ##
+## Kaggle Data Management through the Naver Cloud ##
 
 Kaggle Dataset이 대용량이기 때문에 공유된 [네이버 클라우드](https://cloud.naver.com/)를 통해 모든 데이터를 관리.
 
