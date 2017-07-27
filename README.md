@@ -23,6 +23,24 @@ Kaggle Dataset이 대용량이기 때문에 공유된 [네이버 클라우드](h
 
 ## Study Timeline ##
 
+- **July 27, 2017 : Assignment Review & Cross Validation**
+	- Assignment review
+	- Model improvement
+	- Add a Cross Validation code
+	- 유저별 평균 카트 사이즈를 구해서 최종 구매 리스트에서 제품 개수에 반영
+	- 주문 시간대 별 카테고라이징하고 one-hot encoding해서 feature 추가
+
+	- *Joohong's Assignment*
+		<br>✓ userXproduct feature 추가하기
+		<br>✓ XGBoost model 실험해보기, 파라미터 찾기
+		
+	- *Sangwoo's Assignment*
+		<br>✓ normalization 하기
+		<br>✓ 어떤 피쳐를 normalization 할 것인가
+		
+	- *JeongMoo's Assignment*
+		<br>✓ order_hour 피쳐 가지고 실험하기
+
 - **July 20, 2017 : Instacart baseline code**
 	- Review the baseline codes each others
 	- Make a shared baseline code
