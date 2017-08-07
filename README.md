@@ -23,6 +23,14 @@ Kaggle Dataset이 대용량이기 때문에 공유된 [네이버 클라우드](h
 
 ## Study Timeline ##
 
+- **August 6, 2017 : Normalization & UP_frequent_hour**
+	- Add Normalization code : 큰 변화 없음
+	- Add UP_frequent_hour : 큰 변화 없음
+	- **Instacart Competition 종료!**
+	- *Assignment*
+		<br>✓ [Tensorflow Tutorial](https://tensorflowkorea.gitbooks.io/tensorflow-kr/) 공부하기
+		<br>✓ 구글 머신러닝 챌린지 대회 준비를 위한 몸 만들기
+
 - **July 27, 2017 : Assignment Review & Cross Validation**
 	- Assignment review
 	- Model improvement
