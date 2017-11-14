@@ -12,8 +12,9 @@
 ## Competition Topic ##
 
 <del>1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (Deadline: July 1, 2017)</del> - Clear!😎 <br>
-2. [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) (Deadline: August 14, 2017)<br>
-3. [Google Machine Learning Challenge](https://mlchallenge2017.com/) (Deadline: August 21, 2017)<br>
+<del>2. [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) (Deadline: August 14, 2017)</del> - Clear!😎 <br>
+<del>3. [Google Machine Learning Challenge](https://mlchallenge2017.com/) (Deadline: August 21, 2017)</del> - Clear!😎 <br>
+4. [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) (Deadline: December 15, 2017)
 
 
 ## Kaggle Data Management through the Naver Cloud ##
